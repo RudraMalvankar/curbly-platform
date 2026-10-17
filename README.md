@@ -126,3 +126,5 @@ Connected to live cloud cluster: `winter-bar-92591731` on **Neon Serverless Post
 The 25-slide deck is located at:
 `CURBLY_ENTP_Project_Presentation.pptx`
 Follows clean smart-mobility styling with zero AI-hype visuals, featuring system diagrams, ER data models, unit economics, QA test matrices, and cloud deployment architecture.
+
+Made for Aishwarya solat By Rudra
